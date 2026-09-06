@@ -1,0 +1,19 @@
+{
+  "short_name": "Contexta",
+  "name": "Contexta AI - Operating System for Personalized Learning",
+  "description": "Learn Beyond Answers. AI Knowledge Vault, Grounded RAG Chat, and Adaptive Quizzes.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#090B1A",
+  "theme_color": "#090B1A",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "scope": "/"
+}
